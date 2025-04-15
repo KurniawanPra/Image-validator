@@ -1,4 +1,4 @@
-## Lannggkah Langkah pakai program validator foto bagus dan corupt 
+## Langkah Langkah pakai program validator foto bagus dan corupt 
 pakai python
 
 pip install pillow
